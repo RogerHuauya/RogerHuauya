@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Visits Badge](https://visitor-badge.glitch.me/badge?page_id=RogerHuauya.RogerHuauya)
+[![Web](https://img.shields.io/badge/Web%20Page-Profile-green)](https://www.google.com/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/roger-gustavo-huauya-mamani-9518b6169/)
