@@ -1,25 +1,11 @@
 ### Hi there 👋
 
-<!--
-**RogerHuauya/RogerHuauya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ![Visits Badge](https://visitor-badge.glitch.me/badge?page_id=RogerHuauya.RogerHuauya)
 [![Web](https://img.shields.io/badge/Web%20Page-Profile-green)](https://rogerhuauya.github.io/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/roger-gustavo-huauya-mamani-9518b6169/)
 
-- 🔭 I’m currently working on MDP consulting in a drone research innovation project
-- 🌱 I’m currently learning Obstacle Detection and Avoidance Algorithms with computer vision
+- 🔭 I’m currently working on DEVSU as a Backend Developer
+- 🌱 I’m currently Cloud computing technologies
 - 💬 Ask me about anything about C/C++ programming, Python or Solidworks Design
 - 📫 How to reach me: rghm0398@gmail.com
 - ⚡ Fun fact: I like tigers
