@@ -27,10 +27,6 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-### 📄 Github Projects
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CS1103&repo=MNISTplusplus)](https://github.com/CS1103/MNISTplusplus)
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
